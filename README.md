@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Status-Building%20Projects-4ef5ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Goal-Internship%202026-9b5cff?style=for-the-badge" />
 </p>
-
 ---
 
 ## ⚡ Tech Stack
