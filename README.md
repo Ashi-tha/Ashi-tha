@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Ashitha T</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Ashitha+T" />
+</h1>
 
-<h3 align="center">🚀 Building AI & Data Science Projects | Future ML Engineer</h3>
-
+<h3 align="center">🚀 Building AI & Data Science Projects</h3>
 ---
 
 ## 🌸 About Me
