@@ -1,4 +1,15 @@
 <h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=800&color=FF4ECD&center=true&vCenter=true&width=600&lines=Ashitha+T;AI+%26+Data+Science+Enthusiast;Building+Real-World+ML+Projects" />
+</h1>
+
+<h3 align="center">🚀 Turning Data into Intelligent Solutions</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-ff4ecd?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Building%20Projects-4ef5ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Goal-Internship%202026-9b5cff?style=for-the-badge" />
+</p>
+<h1 align="center">
   <span style="color:#ff4ecd;">Ashitha</span> 
   <span style="color:#4ef5ff;">T</span>
 </h1>
