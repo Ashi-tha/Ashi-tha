@@ -1,7 +1,7 @@
 <h1 align="center">
-  <span style="color:#00ffcc;"> Hi , I'm Ashitha </span>
+  <span style="color:#ff4ecd;">Ashitha</span> 
+  <span style="color:#4ef5ff;">T</span>
 </h1>
-
 <h3 align="center">🚀 Building AI & Data Science Projects</h3>
 ---
 
