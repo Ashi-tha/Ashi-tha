@@ -1,14 +1,32 @@
+<!-- HEADER -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=3000&pause=800&color=FF4ECD&center=true&vCenter=true&width=600&lines=Ashitha+T;AI+%26+Data+Science+Enthusiast;Building+Real-World+ML+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2800&pause=800&color=9B5CFF&center=true&vCenter=true&width=650&lines=Ashitha+T;AI+%26+Data+Science;Building+Real-World+ML+Projects" />
 </h1>
 
-<h3 align="center">🚀 Turning Data into Intelligent Solutions</h3>
+<h3 align="center">⚡ Turning Data into Intelligent Solutions</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Machine%20Learning-ff4ecd?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Building%20Projects-4ef5ff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Goal-Internship%202026-9b5cff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-9b5cff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Science-ff4ecd?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-4ef5ff?style=for-the-badge"/>
 </p>
+
+---
+
+<!-- DIVIDER -->
+<p align="center">✨ ───────────── ✨</p>
+
+---
+
+##  About Me
+
+```yaml
+Name: Ashitha T
+Education: B.Tech AI & Data Science
+Focus: Machine Learning, Data Analysis, AI Systems
+Currently Learning: Flask, Django, RAG
+Goal: AI / Data Science Internship
+
 ---
 
 ## ⚡ Tech Stack
