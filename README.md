@@ -2,7 +2,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2800&pause=800&color=9B5CFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ashitha+T+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Building+Real-World+ML+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2800&pause=800&color=9B5CFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ashitha+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Building+Real-World+ML+Projects" alt="Typing SVG" />
 </h1>
 
 <h3>⚡ Turning Data into Intelligent Solutions</h3>
