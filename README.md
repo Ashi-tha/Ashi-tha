@@ -1,20 +1,16 @@
+
 <!-- HEADER -->
 <div align="center">
-
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2800&pause=800&color=9B5CFF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ashitha+%F0%9F%91%8B;AI+%26+Data+Science+Engineer;Building+Real-World+ML+Projects" alt="Typing SVG" />
 </h1>
-
 <h3>⚡ Turning Data into Intelligent Solutions</h3>
-
 <br/>
-
 <p>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-%239b5cff?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Science-%23ff4ecd?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Open%20to-Internships-%234ef5ff?style=for-the-badge&logoColor=black"/>
 </p>
-
 </div>
 
 ---
