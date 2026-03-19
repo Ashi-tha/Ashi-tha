@@ -1,102 +1,171 @@
 <!-- HEADER -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=38&duration=2800&pause=800&color=9B5CFF&center=true&vCenter=true&width=650&lines=Ashitha+T;AI+%26+Data+Science;Building+Real-World+ML+Projects" />
-</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B5CFF,100:ff4ecd&height=200&section=header&text=Ashitha%20T&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Data%20Science%20Engineer&descSize=20&descAlignY=58&animation=fadeIn" />
+</div>
 
-<h3 align="center">⚡ Turning Data into Intelligent Solutions</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=800&color=9B5CFF&center=true&vCenter=true&width=650&lines=Building+Real-World+ML+Projects+%F0%9F%9A%80;Turning+Data+into+Intelligent+Solutions+%F0%9F%A4%96;Open+to+AI+%26+Data+Science+Internships+%F0%9F%8C%9F" />
+</div>
+
+<br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20ML-9b5cff?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Data%20Science-ff4ecd?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-4ef5ff?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20%26%20ML-%239b5cff?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data%20Science-%23ff4ecd?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-%234ef5ff?style=for-the-badge&logo=briefcase&logoColor=black"/>
 </p>
 
 ---
 
-<!-- DIVIDER -->
-<p align="center">✨ ───────────── ✨</p>
+## 🧬 About Me
+
+```yaml
+- 🎓 B.Tech AI & Data Science Student  
+- 📍 Coimbatore, India  
+- 🔬 Working with real-world datasets  
+- 🤖 Interested in AI, Machine Learning & intelligent systems  
+- 🌱 Currently learning Flask, Django & Advanced AI  
+- 🎯 Focused on AI / Data Science internships  
+```
 
 ---
 
-##  About Me
+## 🔭 Currently Working On
 
-```yaml
-Name: Ashitha T
-Education: B.Tech AI & Data Science
-Focus: Machine Learning, Data Analysis, AI Systems
-Currently Learning: Flask, Django, RAG
-Goal: AI / Data Science Internship
+<table>
+  <tr>
+    <td>🛠️</td>
+    <td><b>Deepening expertise in RAG pipelines</b> — building retrieval-augmented generation systems for intelligent Q&A applications</td>
+  </tr>
+  <tr>
+    <td>🌐</td>
+    <td><b>Flask & Django web integration</b> — deploying ML models as full-stack web apps</td>
+  </tr>
+  <tr>
+    <td>📊</td>
+    <td><b>Advanced data visualization</b> — interactive dashboards with real-world datasets</td>
+  </tr>
+</table>
 
 ---
 
 ## ⚡ Tech Stack
 
 ### 🧠 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
-### 🌐 Web & Tools
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+### 🌐 Web & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-### 🛠 Tools
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+### 🛠️ Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ## 📌 Featured Projects
 
-### 🌱 Smart Agriculture Assistant
-🚀 ML-based crop recommendation system  
-🔧 Python, Flask  
-
-👉 https://github.com/Ashi-tha/smart-agriculture-assistant  
-
----
-
-### 📊 ClimateScope Dashboard
-🌍 Global weather visualization dashboard  
-📈 Data analysis + visualization  
-
-👉 https://github.com/Ashi-tha/climatescope  
-
----
-
-### ❤️ Heart Disease Prediction
-🧠 ML model to predict heart disease  
-📊 Data preprocessing + model evaluation  
-
-👉 https://github.com/Ashi-tha/HEART-DISEASE-PREDICTION  
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌱 Smart Agriculture Assistant</h3>
+      <p>ML-based crop recommendation system that helps farmers make data-driven decisions for better yields.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/ML-9B5CFF?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Ashi-tha/smart-agriculture-assistant">
+        <img src="https://img.shields.io/badge/View%20Project-%239B5CFF?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌍 ClimateScope Dashboard</h3>
+      <p>Interactive global weather visualization dashboard powered by data analysis and stunning visual storytelling.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Data%20Viz-ff4ecd?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Analysis-4ef5ff?style=flat-square&logoColor=black"/>
+      </p>
+      <a href="https://github.com/Ashi-tha/climatescope">
+        <img src="https://img.shields.io/badge/View%20Project-%23ff4ecd?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>❤️ Heart Disease Prediction</h3>
+      <p>Clinical ML model predicting heart disease risk using patient data with thorough preprocessing and model evaluation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Healthcare%20AI-red?style=flat-square"/>
+      </p>
+      <a href="https://github.com/Ashi-tha/HEART-DISEASE-PREDICTION">
+        <img src="https://img.shields.io/badge/View%20Project-%234ef5ff?style=for-the-badge&logo=github&logoColor=black"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 More Coming Soon...</h3>
+      <p>Always building something new at the intersection of AI, data, and real-world problems. Stay tuned!</p>
+      <br/>
+      <a href="https://github.com/Ashi-tha?tab=repositories">
+        <img src="https://img.shields.io/badge/All%20Repos-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashi-tha&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashi-tha&layout=compact&theme=radical" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ashi-tha&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B5CFF&icon_color=ff4ecd&text_color=ffffff" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashi-tha&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B5CFF&text_color=ffffff" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashi-tha&theme=radical&hide_border=true&background=0d1117&stroke=9B5CFF&ring=ff4ecd&fire=ff4ecd&currStreakLabel=9B5CFF" />
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
-- 📧 ashitha11223@gmail.com   
-- 💻 https://github.com/Ashi-tha  
+<p align="center">
+  <a href="mailto:ashitha11223@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ashitha11223@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <br/><br/>
+  <a href="https://github.com/Ashi-tha">
+    <img src="https://img.shields.io/badge/GitHub-Ashi--tha-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<h3 align="center">✨ Not just learning AI — building it ✨</h3>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4ecd,100:9B5CFF&height=120&section=footer&text=Not+just+learning+AI+%E2%80%94+building+it+%E2%9C%A8&fontSize=18&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+</div>
