@@ -130,21 +130,6 @@
   </tr>
 </table>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ashi-tha&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B5CFF&icon_color=ff4ecd&text_color=ffffff" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashi-tha&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9B5CFF&text_color=ffffff" height="165"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ashi-tha&theme=radical&hide_border=true&background=0d1117&stroke=9B5CFF&ring=ff4ecd&fire=ff4ecd&currStreakLabel=9B5CFF" />
-</div>
 
 ---
 
