@@ -9,20 +9,6 @@
   <img src="https://img.shields.io/badge/Status-Building%20Projects-4ef5ff?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Goal-Internship%202026-9b5cff?style=for-the-badge" />
 </p>
-<h1 align="center">
-  <span style="color:#ff4ecd;">Ashitha</span> 
-  <span style="color:#4ef5ff;">T</span>
-</h1>
-<h3 align="center">🚀 Building AI & Data Science Projects</h3>
----
-
-## 🌸 About Me
-
-- 🎓 B.Tech AI & Data Science Student   
-- 🔬 Working with real-world datasets  
-- 🤖 Interested in AI, Machine Learning & intelligent systems  
-- 🌱 Currently learning Flask, Django & Advanced AI  
-- 🎯 Focused on AI / Data Science internships  
 
 ---
 
