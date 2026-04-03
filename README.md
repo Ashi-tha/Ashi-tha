@@ -33,7 +33,7 @@
 | | What |
 |---|---|
 | 🛠️ | **RAG Pipelines** — building retrieval-augmented generation systems for intelligent Q&A apps |
-| 🌐 | **Flask & Django** — deploying ML models as full-stack web applications |
+| 🌐 | **Flask ** — deploying ML models as full-stack web applications |
 | 📊 | **Advanced Data Visualization** — interactive dashboards with real-world datasets |
 
 ---
@@ -58,9 +58,8 @@
 ### 🌐 Web & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & Platforms
