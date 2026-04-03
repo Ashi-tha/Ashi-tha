@@ -33,7 +33,7 @@
 | | What |
 |---|---|
 | 🛠️ | **RAG Pipelines** — building retrieval-augmented generation systems for intelligent Q&A apps |
-| 🌐 | **Flask ** — deploying ML models as full-stack web applications |
+| 🌐 | **Flask** — deploying ML models as full-stack web applications |
 | 📊 | **Advanced Data Visualization** — interactive dashboards with real-world datasets |
 
 ---
