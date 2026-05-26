@@ -18,7 +18,6 @@
 ## 🧬 About Me
 
 ```yaml   
-🎓 B.Tech AI & Data Science Student
 🔬 Working with real-world datasets  
 📚 Interested in AI, Machine Learning & intelligent systems  
 🎯 Currently learning Flask, Django & Advanced AI  
