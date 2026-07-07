@@ -9,8 +9,6 @@
 <p>
   <img src="https://img.shields.io/badge/AI%20%26%20ML-%239b5cff?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data%20Science-%23ff4ecd?style=for-the-badge&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-%234ef5ff?style=for-the-badge&logoColor=black"/>
-</p>
 </div>
 
 ---
@@ -21,7 +19,6 @@
 🔬 Working with real-world datasets  
 📚 Interested in AI, Machine Learning & intelligent systems  
 🎯 Currently learning Flask, Django & Advanced AI  
-📍 Focused on AI / Data Science internships  
 
 ```
 
